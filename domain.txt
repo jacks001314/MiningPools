@@ -294,3 +294,4 @@ pool.elicoin.net
 peachpool.com
 arhash.xyz
 mine.nlpool.nl
+mine.c3pool.com
